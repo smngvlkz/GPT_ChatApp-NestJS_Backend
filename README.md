@@ -1,3 +1,10 @@
+# GPT-Chat App Backend.
+
+With the latest OpenAI announcements, I felt inspired to build yet another GPT app that utilizes the OpenAI API. This time around I chose to build the backend with NestJS. Postman came throught on the designing, testing and debugging of the API. 
+
+The limited credits OpenAI provides for free tier users suck but I made it work and I had a lot of fun working on this project.
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
